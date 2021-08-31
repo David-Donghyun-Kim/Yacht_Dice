@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "555787922055",
+    "project_id": "unity-yacht-dice",
+    "storage_bucket": "unity-yacht-dice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555787922055:android:8eaf0571a96c7f07856622",
+        "android_client_info": {
+          "package_name": "com.JuKimCooperation.YachtDice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555787922055-k63nr1pk9qtonnudi2phimi0egvhmhi4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.JuKimCooperation.YachtDice",
+            "certificate_hash": "1d7686ccc162af6a08880c0c43730b1b1c41b146"
+          }
+        },
+        {
+          "client_id": "555787922055-pufcht0667lsta2pqcncainic3ikm7sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiTlGrK9PMs-JgpQe3SQZuoVCLfqQ4Hfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555787922055-pufcht0667lsta2pqcncainic3ikm7sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
